@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Lukas Berg",
+      "number": "46290777",
+      "id": 1
+    },
+    {
+      "id": "fc80",
+      "name": "Kaia",
+      "number": "97798254"
+    },
+    {
+      "id": "4e8e",
+      "name": "TB",
+      "number": "46290770"
+    },
+    {
+      "id": "5632",
+      "name": "elliot",
+      "number": "34629077"
+    }
+  ]
+}
