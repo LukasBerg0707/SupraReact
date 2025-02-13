@@ -1,6 +1,5 @@
-import ReactDOM from 'react-dom/client'
+import { useState } from 'react';
+import ReactDOM from 'react-dom/client';
+import MainSite from './MainSite';
 
-import App from './App'
-import QuoteApp from './Quote'
-
-ReactDOM.createRoot(document.getElementById('root')).render(<QuoteApp />)
+ReactDOM.createRoot(document.getElementById('root')).render(<MainSite />);
